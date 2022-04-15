@@ -1,0 +1,5 @@
+config.py
+venv
+.vscode
+fb.json
+fbposts.csv
